@@ -89,5 +89,6 @@ There is 180 degree phase shift between input and output
 3.If width is increased it leads to a higher gain
 
 4.180 degree phase shift between the input and output waveform.
-
+## Conclusion
+A PMOS transistor is preferred over a resistor in amplifier circuits Because of its higher gain, lower power consumption, and improved efficiency, a PMOS transistor is recommended over a resistor in amplifier circuits.  Because of its fixed resistance, increased power consumption, and sensitivity to changes in process, voltage, and temperature (PVT), resistors can become unstable. A PMOS, provides more consistent performance, tunable resistance, and improved biasing control.
 
