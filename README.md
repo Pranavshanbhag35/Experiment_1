@@ -1,3 +1,3 @@
 # Experiment_1
-##**Design 1: Simulation of CS Amplifier**/
-##**Aim**
+## **Design 1: Simulation of CS Amplifier** /
+## **Aim**
