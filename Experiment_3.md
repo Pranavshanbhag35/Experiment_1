@@ -34,7 +34,6 @@ Gain is 8.636 <sup>v</sup>/<sub>v</sub>
 ![image](https://github.com/user-attachments/assets/b2626b73-90e0-43d8-a1c6-b2edaf7b97ed)
 **Transient Analysis**
 the output wave form across output 
-![image](https://github.com/user-attachments/assets/29e6e18f-0d64-4821-aecc-99bdf5500d0e)
-![image](https://github.com/user-attachments/assets/7eda1a8d-d9df-4eeb-a574-fa5ec67924d7)
+![image](https://github.com/user-attachments/assets/8bca769f-0531-4a5c-b75e-1654c6d94e56)
 **AC Analysis**
 ![image](https://github.com/user-attachments/assets/8d5ea834-e7c7-47c1-a1ee-bd811c444258)
