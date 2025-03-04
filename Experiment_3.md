@@ -2,8 +2,6 @@
 ## Aim
 Design and analyze the differential amplifier for the following specification VDD=2.2V P=2.2mV Vic=1.2V
 Vocm=1.25V Vp=0.4V perform DC analysis transistor analysis, frequency response and extract the parameter
-## Circuit
-![circuit 1](https://github.com/user-attachments/assets/c3982eda-b3c6-48a6-bc8b-59be0e64fd3c)
 ## Calculation
 ![image](https://github.com/user-attachments/assets/3ef28bc6-a630-4de1-ad91-17f0bcd379d9)
 ## Procedure 
@@ -15,6 +13,9 @@ Vocm=1.25V Vp=0.4V perform DC analysis transistor analysis, frequency response a
 6.	For Transient Analysis, Change the voltage source VGS to sine wave with Dc level is 1.2v, Amplitude is 50mV, frequency is 1 kHz, In simulate option set stop time as 5ms & simulate it.
 7.	For AC Analysis, In simulate option Select Ac Analysis option set points per Decade to 20, Frequency ranges from 0.1Hz to 1THz. 
 8.	Simulate it & determine the gain and frequency response of the circuit.
+## Differential Amplifier with tail Resistor
+## Circuit
+![circuit 1](https://github.com/user-attachments/assets/c3982eda-b3c6-48a6-bc8b-59be0e64fd3c)
 **DC Analysis**
 ![crcuit_1_DC](https://github.com/user-attachments/assets/1a21842a-322c-485e-a748-c637332e9f5d)
 We set Q point (1.2v,0.5mA) by Set Length as 180nm and width as 6.45um
