@@ -14,7 +14,7 @@ Vocm=1.25V Vp=0.4V perform DC analysis transistor analysis, frequency response a
 7.	For AC Analysis, In simulate option Select Ac Analysis option set points per Decade to 20, Frequency ranges from 0.1Hz to 1THz. 
 8.	Simulate it & determine the gain and frequency response of the circuit.
 ## Differential Amplifier with tail Resistor
-## Circuit
+**Circuit**
 ![circuit 1](https://github.com/user-attachments/assets/c3982eda-b3c6-48a6-bc8b-59be0e64fd3c)
 **DC Analysis**
 ![crcuit_1_DC](https://github.com/user-attachments/assets/1a21842a-322c-485e-a748-c637332e9f5d)
@@ -27,3 +27,9 @@ There is 180-degree phase shift between input and output.
 **AC Analysis**
 ![image](https://github.com/user-attachments/assets/8d5ea834-e7c7-47c1-a1ee-bd811c444258)
 Gain is 8.636 <sup>v</sup>/<sub>v</sub>
+## Differential Amplifier with Constant Current Source in tail 
+**Circuit**
+![image](https://github.com/user-attachments/assets/f5945e10-c06c-4845-afed-c7ea97df0d57)
+**DC Analysis**
+![image](https://github.com/user-attachments/assets/b2626b73-90e0-43d8-a1c6-b2edaf7b97ed)
+**Transient Analysis**
