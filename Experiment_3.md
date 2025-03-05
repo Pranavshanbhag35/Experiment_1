@@ -42,6 +42,7 @@ the output wave form across output
 ![image](https://github.com/user-attachments/assets/8cc72361-110f-4187-ad6e-818f7155b786)
 For Vb = Vp + Vth = 0.4 + 0.366
 Tail MOSFET act as constant current source we set L=180nm and W=18.45um.
+
 **DC Analysis**
 ![image](https://github.com/user-attachments/assets/8108b932-2a0d-46a3-9378-fe3afa5e6ddf)
 **Transient Analysis**
