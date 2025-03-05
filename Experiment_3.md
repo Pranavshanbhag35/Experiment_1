@@ -36,6 +36,7 @@ Gain is 8.636 <sup>v</sup>/<sub>v</sub>
 **DC Analysis**
 ![image](https://github.com/user-attachments/assets/b2626b73-90e0-43d8-a1c6-b2edaf7b97ed)
 **Transient Analysis**
+
 the output wave form across output 
 ![image](https://github.com/user-attachments/assets/8bca769f-0531-4a5c-b75e-1654c6d94e56)
 **AC Analysis**
