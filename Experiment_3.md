@@ -93,7 +93,10 @@ ISS= 1 mA
 ID= 0.5 mA
 
 1.When VICM changes there is a change in the output voltage and Drain current.
+
 2.If the input voltage is more then the minimum swing or outside the allowable swing the output wave form deforms, ie it is in triode or cutoff region.
+
 3.If RD value changes there will be a change in the output voltage,by selecting the resistance wecan control the output voltage.
+
 4. If Gain will incersae then Output Swing will Be decreased.
 
