@@ -77,12 +77,19 @@ Tail MOSFET act as constant current source we set L=180nm and W=18.45um.
 ## Inference
 
 VDD=2.2 V
+
 Vp=0.4 V
+
 VICM=1.2 V
+
 VOCM=1.25 V
+
 RD= 1.9 kohm
+
 RSS= 400 ohm
+
 ISS= 1 mA
+
 ID= 0.5 mA
 
 1.When VICM changes there is a change in the output voltage and Drain current.
