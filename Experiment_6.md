@@ -40,6 +40,7 @@ Additionally, a current mirror ensures better symmetry and matching, which is es
 
 ## Aim: - Design the Differential amplifier using the same design specification. And perform DC analysis, transient and AC analysis.
 ## Calculation
+![image](https://github.com/user-attachments/assets/3ef28bc6-a630-4de1-ad91-17f0bcd379d9)
 ## Circuit diagram
 ![image](https://github.com/user-attachments/assets/05fb6c88-76e2-4079-bde0-fa3caeccf51c)
 
