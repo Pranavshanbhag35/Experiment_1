@@ -15,9 +15,9 @@ Additionally, a current mirror ensures better symmetry and matching, which is es
 # Tabular Column 1: -
 
 
-** |I ref|	         I out	   | (W/L)1	      |(W/L)2      |	Vx	  |V out  |
-** |-----------------------------------------------------------------------|
-** |	    |Expected |	Actual	 |			                                      |
+** |I ref|	         I out	   | (W/L)1	    |(W/L)2      |	Vx	  |V out  |
+** |------|---------|----------|------------|------------|--------|-------|
+** |	    |Expected |	Actual	 |			      |            |        |       |
 ** |100uA	|100uA	  |103uA	   |180n/180n=1	|180n/180n=1 |1.275V	|1.696V |
 ** |100uA	|100uA	  |100.6uA	 |500n/500n=1	|500n/500n=1 |1.437V	|1.699V |
 ** |100uA	|100uA	  |100.6uA	 |1u/1u=1	    |1u/1u=1	   |1.397V	|1.699V |
