@@ -9,6 +9,8 @@ Additionally, a current mirror ensures better symmetry and matching, which is es
 ## Procedure: -
 1.	Design the Circuit as per the circuit in fig circuit 1 and put appropriate values of the resistor and W/L value of MOSFET.
 2.	For simulation in LT spice first select DC operating point simulate the circuit find current (I out) compare from Iref and note down in tabular column 1. vary the W/L and analyze the I out.
+3.	For the 2nd circuit find the Iout and Iref  make connection set the W/L value analyze the Iout and Vout.
+4.	for the 3rd circuit for Nmos MOSFET make 1:2 current transfer and for Pmos MOSFET make 1:1 current transfer.
 ## Derivation: -
 ![image](https://github.com/user-attachments/assets/c9d3eb17-7d82-417f-831f-709706f4e32c)
 ## Circuit 1: -
@@ -52,4 +54,11 @@ Gain is 6.2V/V
 
 ### Ac Analysis
 ![image](https://github.com/user-attachments/assets/8d5ea834-e7c7-47c1-a1ee-bd811c444258)
-
+### Infernce
+1. Current mirror Circuit sstabilizes the Circuit which makes more efficiently working.
+2. By using Current mirror circuit which makes the circuit to accurate.
+3. The output current increases or decreases in proportion to the (W/L) ratio of the MOSFETs, confirming the theoretical operation of the current mirror circuit.
+4. When the W/L ratio of the second transistor is reduced to 0.5, the output current nearly doubles.
+5. The better the matching of MOSFETs, the more accurate the current mirroring. Any mismatch in threshold voltage (Vth) or channel dimensions will cause errors.
+### Conclusion
+​In this experiment, we explored the design and analysis of a Golden Reference Current Source and its application in differential amplifiers. The findings highlight the superiority of current mirror circuits over simple tail current sources in terms of stability, precision, and performance.
