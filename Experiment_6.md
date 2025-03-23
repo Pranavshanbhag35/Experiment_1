@@ -21,6 +21,18 @@ Additionally, a current mirror ensures better symmetry and matching, which is es
 | 100uA  | 200uA         | 197.504uA    | 1      | 0.5    | 1.397V | 1.602V |
 | 100uA  | 100uA         | 100uA        | 1      | 1      | 1.331V | 1.669V |
 
+### Circuit Diagram 2: -
+![image](https://github.com/user-attachments/assets/7ed7fef4-7280-4aaf-acd5-7ee158f5bfce)
+### Output Waveform: -
+![image](https://github.com/user-attachments/assets/4025eecb-c792-458c-a830-4d6a946fc0cf)
+### Tabular Column 2: -
+| I ref  | I out Expected | I out Actual | (W/L)1 | (W/L)2 |
+|--------|---------------|--------------|--------|--------|
+| 277uA  | 277uA         | 264.3uA      | 1      | 1      |
+| 277uA  | 277uA         | 270.2uA      | 1      | 1      |
+| 277uA  | 277uA         | 278.3uA      | 1      | 1      |
+| 277uA  | 554uA         | 529uA        | 1      | 0.5    |
+
 ## Aim: - Design the Differential amplifier using the same design specification. And perform DC analysis, transient and AC analysis.
 ## Calculation
 ## Circuit diagram
