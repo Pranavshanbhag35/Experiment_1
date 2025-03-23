@@ -6,14 +6,13 @@ Additionally, a current mirror ensures better symmetry and matching, which is es
 # Procedure: -
 1.	Design the Circuit as per the circuit in fig circuit 1 and put appropriate values of the resistor and W/L value of MOSFET.
 2.	For simulation in LT spice first select DC operating point simulate the circuit find current (I out) compare from Iref and note down in tabular column 1. vary the W/L and analyze the I out.
-# Derivation: -
+## Derivation: -
 ![image](https://github.com/user-attachments/assets/c9d3eb17-7d82-417f-831f-709706f4e32c)
-# Circuit 1: -
+## Circuit 1: -
 ![image](https://github.com/user-attachments/assets/e5464bbd-930b-429b-8283-693223456057)
-# Output: -
+## Output: -
 ![image](https://github.com/user-attachments/assets/5cce9cfa-6a2f-480b-9f8a-aeec4b0675aa)
-# Tabular Column 1: -
-
+## Tabular Column 1: -
 | I ref  | I out Expected | I out Actual | (W/L)1 | (W/L)2 | Vx     | V out  |
 |--------|---------------|--------------|--------|--------|--------|--------|
 | 100uA  | 100uA         | 103uA        | 1      | 1      | 1.275V | 1.696V |
