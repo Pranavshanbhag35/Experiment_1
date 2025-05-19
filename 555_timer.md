@@ -23,9 +23,8 @@ R =  0.5mS/(1.1×1uF) = 454.54 Ohm.
 5.	Analyze the ton period when input is triggered. 
 ## Output Waveform
 ![image](https://github.com/user-attachments/assets/141243cc-a94a-4485-b145-532742e47138)
-First waveform is triggering pulse for Monostable Multivibrator.
-Second waveform is Voltage across the Capacitor and
-Third waveform is output Pulse of 0.5ms
+
+First waveform is triggering pulse for Monostable Multivibrator, Second waveform is Voltage across the Capacitor and Third waveform is output Pulse of 0.5ms
 ## Inference
 •	The output of the circuit remains LOW in its stable state until a trigger input is applied.
 
