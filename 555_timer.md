@@ -13,6 +13,7 @@ Finally we can conclude that, in the monostable multivibrator using 555 timer, t
 ![image](https://github.com/user-attachments/assets/f09d2014-f234-4cf1-947f-79f882f99862)
 ## Calculation
 Given that T=0.5ms and assume c=1uF.
+
 T=1.1RC
 R =  0.5mS/(1.1×1uF) = 454.54 Ohm.
 ## Procedure
