@@ -24,13 +24,17 @@ R =  0.5mS/(1.1×1uF) = 454.54 Ohm.
 ## Output Waveform
 ![image](https://github.com/user-attachments/assets/141243cc-a94a-4485-b145-532742e47138)
 First waveform is triggering pulse for Monostable Multivibrator.
-Second waveform is Voltage across the Capacitor.
+Second waveform is Voltage across the Capacitor and
 Third waveform is output Pulse of 0.5ms
 ## Inference
 •	The output of the circuit remains LOW in its stable state until a trigger input is applied.
+
 •	Upon receiving the trigger, the output switches to HIGH and stays in that state for a time period determined by the RC time constant.
+
 •	With the capacitor value chosen as 1 µF, the required resistor value was calculated to be approximately 454.54 Ω to achieve a 0.5 ms pulse.
+
 •	This experiment demonstrates the use of a 555 timer in monostable mode for generating precise time delays.
+
 ## Conculsion
 The 555 timer IC in monostable mode successfully generated a 0.5 ms output pulse in response to a trigger input. The output pulse duration matched the calculated value using the formula T = 1.1 × R × C, demonstrating the timer’s effectiveness in generating precise time delays.
 
