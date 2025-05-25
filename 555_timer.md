@@ -9,10 +9,13 @@ The Time duration of the pulse is given by
 T = 1.1RC
 Where, R is in Ω and C in Farads.
 Finally we can conclude that, in the monostable multivibrator using 555 timer, the o/p stays in a low state until it gets a trigger i/p. This type of operation is used in push to operate systems. When the input is triggered, then the o/p will go to high state & comes back to its original state.
-## Circuit Diagram
+## Circuit Diagram:
 ![image](https://github.com/user-attachments/assets/f09d2014-f234-4cf1-947f-79f882f99862)
-## Calculation
+## Calculation:
 Given that T=0.5ms and assume c=1uF.
+
+
+
 
 T=1.1RC
 R =  0.5mS/(1.1×1uF) = 454.54 Ohm.
