@@ -59,15 +59,19 @@ Monostable multivibrators have only one stable state that is used to generate a 
 ![image](https://github.com/user-attachments/assets/26366c2f-b938-4156-87b4-d271642cab11)
 
 ## Waveform
-# Case 1:
+### Case 1:
 ![image](https://github.com/user-attachments/assets/869ae537-cf97-49a5-940f-e22fd3acb0af)
 
 First wave is output of Astable Multivibrator, Second waveform is Output of Differentiator Circuit output, 3rd wave is the output of Positive Clipper circuit and fourth waveform is output of Monostable Multivibrator pulse width is 0.5ms.
 
-# Case 2:
+### Case 2:
 ![image](https://github.com/user-attachments/assets/bb46eddd-1ef1-4312-8ae4-5ee948d2a8d7)
 
 First wave is output of Astable Multivibrator, Second waveform is Output of Differentiator Circuit output, 3rd wave is the output of Positive Clipper circuit and fourth waveform is output of Monostable Multivibrator pulse width is 0.5ms.
+
+
+
+
 
 # Simulation in Virtual Lab Astable Multivibrator
 ## Procedure:
