@@ -38,3 +38,63 @@ First waveform is triggering pulse for Monostable Multivibrator, Second waveform
 ## Conculsion
 The 555 timer IC in monostable mode successfully generated a 0.5 ms output pulse in response to a trigger input. The output pulse duration matched the calculated value using the formula T = 1.1 × R × C, demonstrating the timer’s effectiveness in generating precise time delays.
 
+
+
+# Simulation in Virtual Lab Astable Multivibrator
+## Procedure:
+1.	Connect the components as mentioned below: L1-L12, L14-L12, L16-L12, L4-L9, L8-L9, L10-L19, L3-L17, L11-L13, L7-L19, L6-L13, L2-L13, L5-L15, L18-L9.(For eg. click on 1 and then drag to 12 and so on.)
+2.	Click on 'Check Connection' button to check the connections.
+3.	If connected wrong, click on the wrong connection. Else click on 'Delete all connection' button to erase all the connections.
+4.	Intially set R a=3.3 kΩ, R b=6.8kΩ, C=0.1µf, Vcc=5 V.
+5.	Click on "Calculate" button.
+6.	Now note the output voltage.
+7.	Click on "Plot" button to plot Output Voltage, Capacitance Voltage
+8.	Click on "Clear" button to clear the data.
+9.	Repeat the experiment for another set of resistance value.
+10.	Set the Resistance (Ra) value (1 kΩ - 10 kΩ).
+11.	Set the Resistance (Rb) value (1 kΩ - 10 kΩ).
+12.	Set the Capacitance (C) value (0.1 µf - 10 µf) .
+13.	Set supply voltage (Vcc).
+
+## Circuit Diagram
+![image](https://github.com/user-attachments/assets/84bdd13c-5c06-4e09-a1a1-41ebcdcf4a6b)
+
+## Otuput Waveform
+Voltage Across the Capacitor: 
+![image](https://github.com/user-attachments/assets/929fa028-39d0-47d6-bb2d-893dd75a726c)
+
+Output Waveform: -
+![image](https://github.com/user-attachments/assets/10f076e5-9dbc-4486-b668-c16dc3c2def0)
+
+# Simulation in Virtual Lab Monostable Multivibrator
+## Procedure:
+1.	Connect the components as mentioned below: L1-L12, L14-L12, L16-L12, L4-L9, L8-L9, L9-L10, L3-L17, L11-L13, L7-L11, L6-L13, L5-L15.(For eg. click on 1 and then drag to 12 and so on.)
+2.	Click on 'Check Connection' button to check the connections.
+3.	If connected wrong, click on the wrong connection. Else click on 'Delete all connection' button to erase all the connections.
+4.	Intially set R a=10 kΩ, C=1 µf, Vcc=5 V, Tin = 20 msec.
+5.	Click on "Calculate" button.
+6.	Now note the output voltage.
+7.	Click on "Plot" button to plot, Trigger Input Voltage, Output Voltage, Capacitance Voltage
+8.	Click on "Clear" button to clear the data.
+9.	Repeat the experiment for another set of resistance value and capacitance value.
+10.	Set the Resistance (R a) value (1 kΩ - 10 kΩ).
+11.	Set the Capacitance (C) value .
+12.	Set supply voltage (Vcc).
+## Circuit Diagram
+![image](https://github.com/user-attachments/assets/bcabfa8b-4c6d-4fd9-85b2-1ae949fdca52)
+
+## Waveform
+Triggering pulse input waveform:
+![image](https://github.com/user-attachments/assets/1d22377a-19d1-4c3f-a5ac-73992f390170)
+
+Voltage Across the Capacitor: 
+![image](https://github.com/user-attachments/assets/786cee74-8f69-4528-b983-a9263b696e1f)
+
+Output Waveform: 
+![image](https://github.com/user-attachments/assets/8e9a313b-de9a-41da-a336-7ae45c7bbe49)
+
+
+
+
+
+
