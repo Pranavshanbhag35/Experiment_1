@@ -55,6 +55,8 @@ Monostable multivibrators have only one stable state that is used to generate a 
 3.	Analyze the capacitor charging and discharging Voltage per time.
 4.	Analyze the ton period when input is triggered.
 
+## Calculation
+
 ## Circuit Diagram:
 ![image](https://github.com/user-attachments/assets/26366c2f-b938-4156-87b4-d271642cab11)
 
