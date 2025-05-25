@@ -76,6 +76,15 @@ First wave is output of Astable Multivibrator, Second waveform is Output of Diff
 
 First wave is output of Astable Multivibrator, Second waveform is Output of Differentiator Circuit output, 3rd wave is the output of Positive Clipper circuit and fourth waveform is output of Monostable Multivibrator pulse width is 0.5ms.
 
+## Inference
+•	The output of the circuit remains LOW in its stable state until a trigger input is applied.
+
+•	Upon receiving the trigger, the output switches to HIGH and stays in that state for a time period determined by the RC time constant.
+
+•	With the capacitor value chosen as 1 µF, the required resistor value was calculated to be approximately 454.54 Ω to achieve a 0.5 ms pulse.
+
+•	This experiment demonstrates the use of a 555 timer in monostable mode for generating precise time delays.
+
 
 
 
