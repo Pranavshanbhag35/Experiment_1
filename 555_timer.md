@@ -56,6 +56,8 @@ Monostable multivibrators have only one stable state that is used to generate a 
 4.	Analyze the ton period when input is triggered.
 
 ## Calculation
+![WhatsApp Image 2025-05-25 at 10 54 13_7bbbee30](https://github.com/user-attachments/assets/efdeb918-3d2a-4066-ad1e-233ebcb31218)
+
 
 ## Circuit Diagram:
 ![image](https://github.com/user-attachments/assets/26366c2f-b938-4156-87b4-d271642cab11)
