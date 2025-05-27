@@ -11,23 +11,82 @@ To enhance gain, NMOS cascode devices (M6–M8) are used to increase the output 
 
 ## Technical Specification
 •	Voltage Gain (Av): 60–75 dB .
+
+
+
 •	Unity Gain Bandwidth (UGB): ~80 MHz
+
+
+
+
 •	Power Consumption: ~36 µW .
+
+
+
+
 •	Load Capacitance: 0.1 pF – 1 pF (external compensation capacitor).
+
+
+
+
+
 •	Input-Referred Offset Voltage: < 5 mV .
+
+
+
+
+
 •	Common-Mode Rejection Ratio (CMRR): > 60 dB .
+
+
+
+
+
 •	Power Supply Rejection Ratio: > 60 dB .
+
+
+
+
+
 •	Noise Performance: Input-referred noise dominated by M9/M10 pair.
 
 ## Advantages
 •	High Voltage Gain
+
+
+
+
 •	Wide Bandwidth
+
+
+
 •	Stable Operation
+
+
+
 •	Low Power Consumption
+
+
+
 •	Low Noise
+
+
+
+
 •	Low Offset Voltage
+
+
+
+
 •	Good Common-Mode and Power Supply Rejection
+
+
+
+
 •	Compact Load Capacitance Range
+
+
+
 
 ## Simulation Result
 Input wave
