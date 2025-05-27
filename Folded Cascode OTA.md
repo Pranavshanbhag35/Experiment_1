@@ -33,11 +33,18 @@ To enhance gain, NMOS cascode devices (M6–M8) are used to increase the output 
 Input wave
 ![image](https://github.com/user-attachments/assets/2080b442-8361-4bdb-80bf-20ecc91faa26)
 
+
+
 Transient Analysis output:
 ![image](https://github.com/user-attachments/assets/c104e30e-0e3a-4287-8948-206b5c3a12b6)
 
+
+
+
 DC Analysis Output: 
 ![image](https://github.com/user-attachments/assets/cf92a448-c275-4c32-a094-4533e3b1b470)
+
+
 
 Ac Analysis Output:
 ![image](https://github.com/user-attachments/assets/10b53ec5-6666-4390-bcab-f657e07f5052)
@@ -50,8 +57,15 @@ The folded cascode OTA with the specified characteristics provides a robust solu
 
 ## REFERENCE
 •	HTTPS://PEOPLE.ENGR.TAMU.EDU/SPALERMO/ECEN474/LECTURE14_EE474_FOLDED_CASCODE_OTA.PDF
+
+
 •	HTTPS://IEEEXPLORE.IEEE.ORG/DOCUMENT/1708674
+
+
 •	HTTPS://SCISPACE.COM/PDF/DESIGN-OF-FOLDED-CASCODE-OTA-IN-DIFFERENT-REGIONS-OF-1F6AFIH0I4.PDF
+
+
+
 •	HTTPS://WWW.IJERA.COM/PAPERS/VOL2_ISSUE1/CM21566570.PDF
 
 ## 9. Contributors
