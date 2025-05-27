@@ -1,0 +1,5 @@
+# Cardio Tracker - Low-Power ECG Circuit
+
+This project documents the design, simulation, and hardware implementation of a low-power analog ECG (Electrocardiogram) signal acquisition circuit, named **Cardio Tracker**. The system captures heart activity and displays key waveform features such as P-waves, QRS complexes, and T-waves with low noise and high clarity.
+
+---
